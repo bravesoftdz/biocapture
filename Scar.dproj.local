@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/02/25 00:49:26.144.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\uCambiaQad.pas=</Transaction>
+    <Transaction>2010/02/25 00:49:26.144.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\uCambiaQad.dfm=</Transaction>
+    <Transaction>2010/02/25 00:49:47.182.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\uReporte.pas=</Transaction>
+    <Transaction>2010/02/25 00:49:47.182.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\uReporte.dfm=</Transaction>
+    <Transaction>2010/02/25 20:52:16.534.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\fUsers.pas</Transaction>
+    <Transaction>2010/02/25 20:52:16.534.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\fUsers.dfm</Transaction>
+    <Transaction>2010/02/25 21:02:57.470.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\fLogin.pas</Transaction>
+    <Transaction>2010/02/25 21:02:57.470.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\fLogin.dfm</Transaction>
+    <Transaction>2010/02/25 23:40:32.703.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\fManual.pas</Transaction>
+    <Transaction>2010/02/25 23:40:32.703.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\fManual.dfm</Transaction>
+    <Transaction>2010/02/28 22:47:59.081.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\fImport.pas</Transaction>
+    <Transaction>2010/02/28 22:47:59.081.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\fImport.dfm</Transaction>
+    <Transaction>2010/03/01 01:33:04.422.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\uStrUtils.pas</Transaction>
+    <Transaction>2010/03/24 19:21:56.416.dproj,C:\Users\Patricio\Documents\Projects\Scar2008\src\SCAPR.dproj=C:\Users\Patricio\Documents\Projects\Scar2008\src\Scar.dproj</Transaction>
+    <Transaction>2010/04/14 08:53:43.280.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\fAsistencia.pas</Transaction>
+    <Transaction>2010/04/14 08:53:43.280.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\fAsistencia.dfm</Transaction>
+    <Transaction>2010/04/15 21:57:52.599.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.pas</Transaction>
+    <Transaction>2010/04/15 21:57:52.599.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.dfm</Transaction>
+    <Transaction>2010/04/15 21:58:54.761.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\rMaletas.pas</Transaction>
+    <Transaction>2010/04/15 21:58:54.761.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla1.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\rMaletas.dfm</Transaction>
+    <Transaction>2010/04/15 23:00:42.797.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.pas=</Transaction>
+    <Transaction>2010/04/15 23:00:42.797.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.dfm=</Transaction>
+    <Transaction>2010/04/15 23:09:41.355.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.pas</Transaction>
+    <Transaction>2010/04/15 23:09:41.356.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.dfm</Transaction>
+    <Transaction>2010/04/15 23:09:41.446.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla.pas</Transaction>
+    <Transaction>2010/04/15 23:09:41.446.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla.dfm</Transaction>
+    <Transaction>2010/04/15 23:14:16.651.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla.pas=</Transaction>
+    <Transaction>2010/04/15 23:14:16.651.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\uPlanilla.dfm=</Transaction>
+    <Transaction>2010/04/15 23:15:20.644.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.pas=</Transaction>
+    <Transaction>2010/04/15 23:15:20.644.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.dfm=</Transaction>
+    <Transaction>2010/04/15 23:26:38.976.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.pas=</Transaction>
+    <Transaction>2010/04/15 23:26:38.976.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.dfm=</Transaction>
+    <Transaction>2010/04/15 23:32:00.752.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.pas</Transaction>
+    <Transaction>2010/04/15 23:32:00.752.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.dfm</Transaction>
+    <Transaction>2010/06/09 08:40:32.577.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencias.pas</Transaction>
+    <Transaction>2010/06/09 08:40:32.577.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.dfm=C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencias.dfm</Transaction>
+    <Transaction>2010/06/17 01:17:28.379.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\Unit1.pas=C:\Users\Patricio\Documents\Projects\Scar2008\src\ds2xml.pas</Transaction>
+    <Transaction>2010/06/18 15:54:36.546.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\ds2xml.pas=</Transaction>
+    <Transaction>2010/06/22 08:11:39.673.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\uContratistas.pas=</Transaction>
+    <Transaction>2010/06/22 08:11:39.673.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\uContratistas.dfm=</Transaction>
+    <Transaction>2010/06/22 08:12:45.636.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.pas=</Transaction>
+    <Transaction>2010/06/22 08:12:45.636.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\rAsistencia.dfm=</Transaction>
+    <Transaction>2010/06/22 08:16:14.561.pas,C:\Users\Patricio\Documents\Projects\Scar2008\src\uImportar.pas=</Transaction>
+    <Transaction>2010/06/22 08:16:14.561.dfm,C:\Users\Patricio\Documents\Projects\Scar2008\src\uImportar.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>

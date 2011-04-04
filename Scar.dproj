@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{d9d2fc8c-0f00-4c57-a67b-e9442fe6e9b2}</ProjectGuid>
+    <MainSource>Scar.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>..\run\Scar.exe</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_Optimize>False</DCC_Optimize>
+    <DCC_IntegerOverflowCheck>True</DCC_IntegerOverflowCheck>
+    <DCC_RangeChecking>True</DCC_RangeChecking>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_Define>RELEASE</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+    <DCC_DcuOutput>c:\dcu</DCC_DcuOutput>
+    <DCC_ObjOutput>c:\dcu</DCC_ObjOutput>
+    <DCC_HppOutput>c:\dcu</DCC_HppOutput>
+    <DCC_ExeOutput>..\run</DCC_ExeOutput>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_IntegerOverflowCheck>True</DCC_IntegerOverflowCheck>
+    <DCC_RangeChecking>True</DCC_RangeChecking>
+    <DCC_Define>DEBUG</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_DcuOutput>c:\dcu</DCC_DcuOutput>
+    <DCC_ObjOutput>c:\dcu</DCC_ObjOutput>
+    <DCC_HppOutput>c:\dcu</DCC_HppOutput>
+    <DCC_DebugInfoInExe>True</DCC_DebugInfoInExe>
+    <DCC_DebugVN>True</DCC_DebugVN>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">True</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">3</VersionInfo><VersionInfo Name="MinorVer">1</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1034</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName">ARXyS</VersionInfoKeys><VersionInfoKeys Name="FileDescription">SCAPR</VersionInfoKeys><VersionInfoKeys Name="FileVersion">3.1.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">3.1.0.0</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">Scar.dpr</Source></Source></Delphi.Personality><ModelSupport>False</ModelSupport></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="Scar.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="fAsistencia.pas">
+      <Form>frmAsistencia</Form>
+    </DCCReference>
+    <DCCReference Include="fImport.pas">
+      <Form>frmImport</Form>
+    </DCCReference>
+    <DCCReference Include="fLogin.pas">
+      <Form>frmLogin</Form>
+    </DCCReference>
+    <DCCReference Include="fManual.pas">
+      <Form>frmManual</Form>
+    </DCCReference>
+    <DCCReference Include="fMigrator.pas">
+      <Form>frmMigrator</Form>
+    </DCCReference>
+    <DCCReference Include="fUsers.pas">
+      <Form>frmUsers</Form>
+    </DCCReference>
+    <DCCReference Include="GrFinger.pas" />
+    <DCCReference Include="rAsistencias.pas">
+      <Form>frmRAsistencias</Form>
+    </DCCReference>
+    <DCCReference Include="rMaletas.pas">
+      <Form>frmRMaletas</Form>
+    </DCCReference>
+    <DCCReference Include="uAcercade.pas">
+      <Form>formAcercade</Form>
+    </DCCReference>
+    <DCCReference Include="uCallbacks.pas" />
+    <DCCReference Include="uCuadrillas.pas">
+      <Form>formCuadrillas</Form>
+    </DCCReference>
+    <DCCReference Include="uDBClass.pas" />
+    <DCCReference Include="uDM.pas">
+      <Form>dm</Form>
+    </DCCReference>
+    <DCCReference Include="uExportar.pas">
+      <Form>formExportTrx</Form>
+    </DCCReference>
+    <DCCReference Include="uMain.pas">
+      <Form>formMain</Form>
+    </DCCReference>
+    <DCCReference Include="uMaletas.pas">
+      <Form>formMaletas</Form>
+    </DCCReference>
+    <DCCReference Include="uOptions.pas">
+      <Form>formOptions</Form>
+    </DCCReference>
+    <DCCReference Include="uPersonal.pas">
+      <Form>formPersonal</Form>
+    </DCCReference>
+    <DCCReference Include="uSincro.pas">
+      <Form>formSincro</Form>
+    </DCCReference>
+    <DCCReference Include="uSplash.pas">
+      <Form>formSplash</Form>
+    </DCCReference>
+    <DCCReference Include="uStrUtils.pas" />
+    <DCCReference Include="uUtil.pas" />
+  </ItemGroup>
+</Project>
